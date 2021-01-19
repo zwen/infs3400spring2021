@@ -1,2 +1,2 @@
-# INFS-3400 IS Security
- Utoledo
+# INFS-3400 Information Systems Security - Code Repository
+ 
