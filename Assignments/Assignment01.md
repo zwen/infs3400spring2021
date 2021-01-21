@@ -1,9 +1,9 @@
 ## Assignment 01 - Coding Exercise
 
-### Please use Anaconda/Spyder (or your favorite ) to run the following code. Then answer the short questions come after the code.
+### Please use Anaconda/Spyder (or your favorite python editor) to run the following code. Then, answer the short questions.
 
 
-#### Q1. Please try your best to guess. What did the code block achieve?
+#### Q1. Please try your best to guess. What did the code block has achieved?
 ```
 import math
 radius = 20
@@ -11,7 +11,7 @@ area = radius * radius * math.pi
 print("the area of a circle with the radius of", radius, "inch is", area, "square inches. ")
 ```
 
-#### Q2. Please continue to write down the following code below the block above. What do you think the round() function has achieved?
+#### Q2. Please continue to write down the following code below the code block above. What do you think the round() function has achieved?
 ```
 area = round(area, 2)
 print(area)
