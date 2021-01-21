@@ -3,7 +3,7 @@
 ### Please use Anaconda/Spyder (or your favorite ) to run the following code. Then answer the short questions come after the code.
 
 
-#### Q1. Please try your best to guess what did the code block achieve?
+#### Q1. Please try your best to guess. What did the code block achieve?
 ```
 import math
 radius = 20
