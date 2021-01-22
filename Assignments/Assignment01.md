@@ -4,7 +4,7 @@
 
 
 #### Q1. Please try your best to guess. What did the code block has achieved?
-```
+```python
 import math
 radius = 20
 area = radius * radius * math.pi
