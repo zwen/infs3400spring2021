@@ -9,17 +9,21 @@ Created on Tue Jan 26 16:08:32 2021
 #in-class assignment 01 - 01/25/2021 loan calculator 
 
 
-
-loanAmount = eval(input("What is your loan amount: "))
-monthlyInterestRate = eval(input("What is the interest rate: ")) / 12
-numberOfYears = eval(input("What is the duration in years: "))
+#I am doing this intentionally to show you what a constant is.
 MONTH = 12
+
+#Getting input
+loanAmount = eval(input("What is your loan amount: "))
+monthlyInterestRate = eval(input("What is the interest rate: ")) / MONTH
+numberOfYears = eval(input("What is the duration in years: "))
 
 
 #for the convenience of coding (so that your code is actually readable...)
 numerator = loanAmount * monthlyInterestRate
-denominatorPart1 = (1 + monthlyInterestRate) ** (numberOfYears * 12)
+denominatorPart1 = (1 + monthlyInterestRate) ** (numberOfYears * MONTH)
 
+
+#For the final answers
 monthlyPayment = numerator / (1 - 1/denominatorPart1)
 
 totalPayment = monthlyPayment * MONTH * numberOfYears
