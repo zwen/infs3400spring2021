@@ -33,12 +33,3 @@ print("monthly payment is :", monthlyPayment)
 print("total payment is :", totalPayment)
 
 
-monthlyinterestrate = float((input("Enter the monthly interest rate: ")))
-loanamount = int((input("Enter the loan amount: ")))
-numberofyears = int((input("Enter the amount of years for the loan:")))
-
-
-monthlypayment = ((loanamount*monthlyinterestrate)/(1-(1/((1+monthlyinterestrate)**(numberofyears*12)))))
-
- 
-print(monthlypayment)
