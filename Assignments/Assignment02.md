@@ -66,8 +66,8 @@ guess = 0
 
 print(password != guess)
 
-while cracker != password:
-    cracker += 1
+while guess != password:
+    guess += 1
 
 print("Password is ", guess)
 ```
