@@ -58,7 +58,7 @@ else:
     print("a is not larger than b")
 ```
 
-#### Q6. Please run the following code. What do you think the program is hoping to achieve and why it will correctly find out the password?
+#### Q6. Please run the following code. What do you think the program is hoping to achieve and why it will correctly find out the password? How long did your computer take to complete the code? 
 #Block 6
 ```python
 password = 9805
