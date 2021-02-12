@@ -6,6 +6,9 @@
 import sys
 
 password = "mz"
+
+# This code only cracks two-character password, to crack a longer length password, you need to implement for layers of loop. 
+
 candidate = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()~`-_=+\|<>,.:;"'/?'
 key = ""
 
