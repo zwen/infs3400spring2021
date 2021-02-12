@@ -3,7 +3,7 @@
 
 ### Please read the programming requirements carefully, then code accodingly.
 
-#### Q1. Please complete the Q4 from previous assignment based on the class room discussion from 02/11/2021. You may choose to use whichever method you feel comfortable. Your program should satisfy the following requirements.
+#### Q1. Please complete the Q4 from previous assignment based on the [class room discussion from 02/11/2021](https://github.com/zwen/infs3400spring2021/blob/main/In-Class%20Assignment/passwordFinder.py). You may choose to use whichever method you feel comfortable. But the dictionary approach is preferred. Your program should satisfy the following requirements.
 - You should use these variables and the initial values: ```password = "az6k"``` and ```key = ""```
 - We will only consider alphanumeric key at this time.
 - Please measure how long did it take to find the password using ```time.time()``` methods. Please report the time.
