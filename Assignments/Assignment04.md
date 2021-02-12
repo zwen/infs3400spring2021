@@ -20,7 +20,8 @@
 
 
 
-#### Q4. How would you implement a backdoor in an authentication process? Please implement this based on the Q3 from previous week. (I have posted the full solution for the Assignment03-Q3 in this folder.)
+#### Q4. How would you implement a backdoor in an authentication process? Please implement this based on the Q3 from previous week. (I have posted the [full solution for the Assignment03-Q3](https://github.com/zwen/infs3400spring2021/blob/main/Assignments/Assignment03_Solution.py).)
+- You will be able to get into the system with a master password ```'king'```, regardless of the actual password. 
 
 
 
