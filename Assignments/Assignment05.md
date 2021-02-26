@@ -13,10 +13,10 @@ def ___________(1)________________:  #name it properly (some hint below)
 
 
 
-    # The end of the function should be like this...
+    # The end of the function should be like this: 
     # if it is a palindrome return True, else return False
 
-Print("The result of the evaluation is (In True/False) :")
+print("The result of the evaluation is (In True/False) :")
 
 # You are invoking your newly created function from the line below:
 print(getPalindromeResult(______)) #Fill in any text you want to test.
