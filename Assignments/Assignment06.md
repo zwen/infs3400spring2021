@@ -2,10 +2,10 @@
 
 ### Please read the programming requirements carefully, then code accodingly.
 
-#### Q1. Please complete the following backdoor problem (from ```assignment 04``` ```question 04```). Specifically, please create a ```checkPassword()``` function so that the complete program can work exactly the same as the previous one. (Hint:  Does the newly created function need to return anything?) (The solution for ```assignment 04``` can be [found here.](https://github.com/zwen/infs3400spring2021/blob/main/Assignments/Assignment_04_Q4_Solution.py))
+#### Q1. Please complete the following backdoor problem (from ```assignment 04``` ```question 04```). Specifically, please create a ```checkPassword()``` function so that the complete program can work exactly the same as the previous one. (Hint:  Does the newly created function need to return anything?) (The solution for ```assignment 04 Q4``` can be [found here.](https://github.com/zwen/infs3400spring2021/blob/main/Assignments/Assignment_04_Q4_Solution.py), you may also refer to the solution for ```assignment 05``` [at here](https://github.com/zwen/infs3400spring2021/blob/main/Assignments/Assignment05_Solution.py).)
 
 - The newly created function must be placed before it is being invoked. There is already a placeholder for the function.
-- Think about whether it should return anything or not. 
+- Think about whether it should return anything or not.
 
 ```python
 userName = "aaron"
